@@ -12,7 +12,6 @@ This project involves the analysis of publicly available COVID-19 data. The aim 
 ## Tools & Technologies
 - **Microsoft Excel**: For data cleaning and preprocessing.
 - **SQL**: For database management and query execution.
-- **SQL Server/PostgreSQL**: (Specify the DBMS you used).
 
 ## Data Source
 The COVID-19 dataset used in this project was obtained from [https://ourworldindata.org/covid-deaths].
